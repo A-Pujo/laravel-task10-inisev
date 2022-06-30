@@ -1,6 +1,7 @@
+initially, run: php artisan migrate:refresh --seed
+
 # Overview 
 This is just an REST API program without any frontend
-initially, run: php artisan migrate:refresh --seed
 
 # Datas Seed
 table *websites*, and *posts*
